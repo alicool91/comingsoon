@@ -17,10 +17,9 @@ from django.contrib import admin
 from django.urls import path
 
 from home.views import home_view, user_create_view
-from portan.views import port_create_view
+
 
 urlpatterns = [
 	path('', user_create_view, name='home'),
-	path('portan/', port_create_view, name ='portan_create'),
     path('admin/', admin.site.urls),
 ]

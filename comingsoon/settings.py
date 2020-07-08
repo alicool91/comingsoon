@@ -40,7 +40,6 @@ INSTALLED_APPS = [
 
     #own
     'home',
-    'portan',
 ]
 
 MIDDLEWARE = [
