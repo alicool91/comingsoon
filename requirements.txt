@@ -193,7 +193,7 @@ pycrypto==2.6.1
 pycurl==7.43.0.3
 pyflakes==2.1.1
 pyfolio==0.9.2
-Pygments==2.4.2
+Pygments==2.7.4
 PyHamcrest==2.0.2
 pylint==2.5.3
 pyodbc==4.0.26
